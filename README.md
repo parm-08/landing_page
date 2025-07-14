@@ -7,7 +7,7 @@ A modern and responsive **boutique landing page** built with HTML, CSS , JS , an
 
 ##  Live Demo
 
-
+link:  https://parm-08.github.io/landing_page/
 
 
 ## 🛠 Tech Stack
